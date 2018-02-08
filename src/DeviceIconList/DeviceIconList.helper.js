@@ -1,4 +1,4 @@
-// Why do I create this helper?
+// Why did I create this helper?
 
 // As a good practice I'm creating a vanila javascript helper that will
 // handle all business logic, this is pretty important to keep projects
